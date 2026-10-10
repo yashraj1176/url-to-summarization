@@ -6,3 +6,4 @@ langchain-community
 unstructured
 youtube-transcript-api
 pytube
+torchvision
